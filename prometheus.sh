@@ -1,3 +1,6 @@
+#  Install prometheus and use systemd for it.
+
+
 sudo useradd --no-create-home --shell /bin/false prometheus
 
 sudo mkdir /etc/prometheus
